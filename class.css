@@ -1,0 +1,42 @@
+/* 
+body{
+    align-items: center;
+    position: fixed;
+}.box1{
+    height: 80px;
+    width: 80px;
+    background-color:#2f4;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    z-index:1 ;
+    box-shadow: black;
+    text-align: center;
+}
+.box2{
+    height: 80px;
+    width: 80px;
+    background-color :#e1a;
+    position: absolute;
+    box-shadow: black;
+    top: 100px;
+    left: 100px;
+    z-index: 3;
+    
+    
+}
+.box3{
+    height: 80px;
+    width: 80px;
+    background-color:aqua;
+    border: black;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+    z-index: 3;
+   
+    box-shadow: black;
+}
+iframe{
+  border: black;   
+} */
